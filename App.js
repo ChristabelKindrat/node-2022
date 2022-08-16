@@ -22,7 +22,7 @@
 //         console.log(e)
 //     }
 // }
-// SortByGender('boy', 'male', 'girl');
-// SortByGender('girl', 'female', 'boy');
+// SortByGender('boys', 'male', 'girls');
+// SortByGender('girls', 'female', 'boys');
 
 // Home Work 2
